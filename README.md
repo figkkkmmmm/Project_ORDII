@@ -19,8 +19,9 @@
 - shopping_behavior.csv — Исходный датасет
 - README.md — Описание проекта
 - https://datalens.ru/e0z7239nxzfgy — Ссылка на Yandex Datalens
+- Пример, если не сработает <img width="1668" height="854" alt="image" src="https://github.com/user-attachments/assets/2348c8eb-297e-425f-9a56-5ab3f22f2dc0" />
+
 
 ## Автор
 
 Криворучко Юрий, мехмат ЮФУ ПМИ 1.4
-<img width="1668" height="854" alt="image" src="https://github.com/user-attachments/assets/01a70e10-324a-4696-9ef2-cc0a1baade69" />
