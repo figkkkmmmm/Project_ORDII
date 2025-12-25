@@ -23,3 +23,4 @@
 ## Автор
 
 Криворучко Юрий, мехмат ЮФУ ПМИ 1.4
+<img width="1668" height="854" alt="image" src="https://github.com/user-attachments/assets/01a70e10-324a-4696-9ef2-cc0a1baade69" />
